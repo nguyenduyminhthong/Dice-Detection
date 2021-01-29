@@ -14,7 +14,7 @@ import org.opencv.highgui.HighGui;
 import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 
-public class DiceDetection {
+public class Main {
     private static final Scalar COLOR = new Scalar(255, 255, 0, 0);
     private static final int FONT = Imgproc.FONT_HERSHEY_SIMPLEX;
     private static final int SCALE = 1;
